@@ -1,0 +1,15 @@
+body {
+    font-family: "times new roman", times, serif;
+    font-size: 30px;
+}
+p {
+    border-style: solid;
+    border-width: medium;
+    margin: 20px;
+    border: 2px solid black;
+    -moz-borer-radious: 2em;
+}
+div {
+    width: auto;
+    border: 1px solid black;
+}
