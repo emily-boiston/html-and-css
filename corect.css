@@ -1,7 +1,13 @@
-h1, h2 { text-align: center; }
- p { text-align: center; } 
- body { background-color: lightblue; } 
+h1, h2 { text-align: left; }
+ p { 
+     color: darkblue;
+     text-align: left; } 
+ body { 
+     color: darkblue;
+     background-color: lightblue; } 
  img { border: 2px dashed red;; }
+ h3{ text-align: center;
+}
 
 
 
