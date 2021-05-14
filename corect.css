@@ -1,17 +1,7 @@
-<html>
-<head>
-<style>
-h1{text-align: center;}
-	p {test-align: center;}
-	</style>
-	</head>
-body {
-	border: 0px 0px 0px 0px;
-	background-color: light blue;
-	color: dark blue;
-}
-p.one {
-	border-style: solid;
-	border-color: red;
-}
+h1, h2 { text-align: center; }
+ p { text-align: center; } 
+ body { background-color: lightblue; } 
+ img { border: 2px dashed red;; }
+
+
 
